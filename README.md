@@ -1,6 +1,7 @@
 # Power BI Analysis
- Power BI Analysis made my me about a variety of things
----
+Power BI Analysis made my me about a variety of things!
+***
+
  ### List of analysis:
 
  1. Expenses of Brazilian Politicians
